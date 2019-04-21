@@ -1,22 +1,11 @@
-name: Cambridge University India Society
-author: Anik Roy
-email: anik545@gmail.com
-
-# links
-facebook: https://www.facebook.com/indiasoc
-facebook_events: https://www.facebook.com/pg/indiasoc/events
-instagram: https://www.instagram.com/cuindiasoc/?hl=en
-email: mailto:india@cusu.cam.ac.uk
-mailing_list: https://lists.cam.ac.uk/mailman/listinfo/soc-indiasoc
-
-pres_email: india@cusu.cam.ac.uk
-treasurer_email: india@cusu.cam.ac.uk
-ents_email: india@cusu.cam.ac.uk
-sponsorship_email: india@cusu.cam.ac.uk
-
-no_events: 6
-
-favicon: img/favicon.png
-
-collections:
-  - events
+favicon: /img/logofacebook.png
+facebook: s
+facebook_events: s
+instagram: s
+indiasoc_email: s
+mailing_list: s
+pres_email: s
+treasurer_email: s
+ents_email: s
+sponsorship_email: s
+no_events: 4
